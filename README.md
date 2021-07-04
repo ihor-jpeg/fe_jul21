@@ -1,4 +1,4 @@
 # fe_jul21
 
-    - [Preview](https://your-name.github.io/your-repo/)
-    - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+    <a href="https://ihor-jpeg.github.io/fe_jul21/">- Preview</a>
+    <a href="https://ihor-jpeg.github.io/fe_jul21/">- Pull Request</a>
